@@ -1,1 +1,1 @@
-# IstatistikselVeriAnaliziOdev1
+# İstatiktiksel Veri Analizi Ödev 1
